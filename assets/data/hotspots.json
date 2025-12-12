@@ -1,0 +1,1003 @@
+
+[
+  {
+    "id": "hotspot-1",
+    "name": "Quanty Hotspot 1",
+    "ssid": "Quanty-Fi-101",
+    "latitude": 37.782308,
+    "longitude": -122.534998,
+    "signal": 60,
+    "channel": 6,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-2",
+    "name": "Quanty Hotspot 2",
+    "ssid": "Quanty-Fi-102",
+    "latitude": 37.768684,
+    "longitude": -122.349513,
+    "signal": 74,
+    "channel": 44,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-3",
+    "name": "Quanty Hotspot 3",
+    "ssid": "Quanty-Fi-103",
+    "latitude": 37.706989,
+    "longitude": -122.349086,
+    "signal": 67,
+    "channel": 6,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-4",
+    "name": "Quanty Hotspot 4",
+    "ssid": "Quanty-Fi-104",
+    "latitude": 37.805411,
+    "longitude": -122.521699,
+    "signal": 94,
+    "channel": 44,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-5",
+    "name": "Quanty Hotspot 5",
+    "ssid": "Quanty-Fi-105",
+    "latitude": 37.688742,
+    "longitude": -122.508321,
+    "signal": 58,
+    "channel": 11,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-6",
+    "name": "Quanty Hotspot 6",
+    "ssid": "Quanty-Fi-106",
+    "latitude": 37.779014,
+    "longitude": -122.45876,
+    "signal": 71,
+    "channel": 1,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-7",
+    "name": "Quanty Hotspot 7",
+    "ssid": "Quanty-Fi-107",
+    "latitude": 37.74426,
+    "longitude": -122.513988,
+    "signal": 92,
+    "channel": 11,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-8",
+    "name": "Quanty Hotspot 8",
+    "ssid": "Quanty-Fi-108",
+    "latitude": 37.749004,
+    "longitude": -122.364693,
+    "signal": 70,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-9",
+    "name": "Quanty Hotspot 9",
+    "ssid": "Quanty-Fi-109",
+    "latitude": 37.836267,
+    "longitude": -122.495754,
+    "signal": 56,
+    "channel": 36,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-10",
+    "name": "Quanty Hotspot 10",
+    "ssid": "Quanty-Fi-110",
+    "latitude": 37.770279,
+    "longitude": -122.457812,
+    "signal": 69,
+    "channel": 11,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-11",
+    "name": "Quanty Hotspot 11",
+    "ssid": "Quanty-Fi-111",
+    "latitude": 37.691678,
+    "longitude": -122.429429,
+    "signal": 49,
+    "channel": 11,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-12",
+    "name": "Quanty Hotspot 12",
+    "ssid": "Quanty-Fi-112",
+    "latitude": 37.706145,
+    "longitude": -122.373884,
+    "signal": 59,
+    "channel": 6,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-13",
+    "name": "Quanty Hotspot 13",
+    "ssid": "Quanty-Fi-113",
+    "latitude": 37.827309,
+    "longitude": -122.374398,
+    "signal": 29,
+    "channel": 149,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-14",
+    "name": "Quanty Hotspot 14",
+    "ssid": "Quanty-Fi-114",
+    "latitude": 37.714721,
+    "longitude": -122.417527,
+    "signal": 84,
+    "channel": 36,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-15",
+    "name": "Quanty Hotspot 15",
+    "ssid": "Quanty-Fi-115",
+    "latitude": 37.803072,
+    "longitude": -122.350488,
+    "signal": 80,
+    "channel": 1,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-16",
+    "name": "Quanty Hotspot 16",
+    "ssid": "Quanty-Fi-116",
+    "latitude": 37.784714,
+    "longitude": -122.522696,
+    "signal": 39,
+    "channel": 36,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-17",
+    "name": "Quanty Hotspot 17",
+    "ssid": "Quanty-Fi-117",
+    "latitude": 37.744054,
+    "longitude": -122.413949,
+    "signal": 36,
+    "channel": 11,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-18",
+    "name": "Quanty Hotspot 18",
+    "ssid": "Quanty-Fi-118",
+    "latitude": 37.733902,
+    "longitude": -122.493605,
+    "signal": 26,
+    "channel": 44,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-19",
+    "name": "Quanty Hotspot 19",
+    "ssid": "Quanty-Fi-119",
+    "latitude": 37.709625,
+    "longitude": -122.493161,
+    "signal": 37,
+    "channel": 36,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-20",
+    "name": "Quanty Hotspot 20",
+    "ssid": "Quanty-Fi-120",
+    "latitude": 37.702702,
+    "longitude": -122.439495,
+    "signal": 92,
+    "channel": 1,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-21",
+    "name": "Quanty Hotspot 21",
+    "ssid": "Quanty-Fi-121",
+    "latitude": 37.719674,
+    "longitude": -122.469695,
+    "signal": 97,
+    "channel": 11,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-22",
+    "name": "Quanty Hotspot 22",
+    "ssid": "Quanty-Fi-122",
+    "latitude": 37.80036,
+    "longitude": -122.358147,
+    "signal": 31,
+    "channel": 44,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-23",
+    "name": "Quanty Hotspot 23",
+    "ssid": "Quanty-Fi-123",
+    "latitude": 37.738685,
+    "longitude": -122.436987,
+    "signal": 88,
+    "channel": 36,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-24",
+    "name": "Quanty Hotspot 24",
+    "ssid": "Quanty-Fi-124",
+    "latitude": 37.689342,
+    "longitude": -122.510815,
+    "signal": 89,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-25",
+    "name": "Quanty Hotspot 25",
+    "ssid": "Quanty-Fi-125",
+    "latitude": 37.813241,
+    "longitude": -122.369314,
+    "signal": 93,
+    "channel": 44,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-26",
+    "name": "Quanty Hotspot 26",
+    "ssid": "Quanty-Fi-126",
+    "latitude": 37.733597,
+    "longitude": -122.377155,
+    "signal": 86,
+    "channel": 36,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-27",
+    "name": "Quanty Hotspot 27",
+    "ssid": "Quanty-Fi-127",
+    "latitude": 37.753635,
+    "longitude": -122.420988,
+    "signal": 52,
+    "channel": 149,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-28",
+    "name": "Quanty Hotspot 28",
+    "ssid": "Quanty-Fi-128",
+    "latitude": 37.837544,
+    "longitude": -122.385878,
+    "signal": 67,
+    "channel": 1,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-29",
+    "name": "Quanty Hotspot 29",
+    "ssid": "Quanty-Fi-129",
+    "latitude": 37.735003,
+    "longitude": -122.463395,
+    "signal": 90,
+    "channel": 44,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-30",
+    "name": "Quanty Hotspot 30",
+    "ssid": "Quanty-Fi-130",
+    "latitude": 37.714734,
+    "longitude": -122.401599,
+    "signal": 75,
+    "channel": 6,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-31",
+    "name": "Quanty Hotspot 31",
+    "ssid": "Quanty-Fi-131",
+    "latitude": 37.755594,
+    "longitude": -122.39357,
+    "signal": 73,
+    "channel": 1,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-32",
+    "name": "Quanty Hotspot 32",
+    "ssid": "Quanty-Fi-132",
+    "latitude": 37.717491,
+    "longitude": -122.423305,
+    "signal": 80,
+    "channel": 44,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-33",
+    "name": "Quanty Hotspot 33",
+    "ssid": "Quanty-Fi-133",
+    "latitude": 37.754473,
+    "longitude": -122.486821,
+    "signal": 77,
+    "channel": 11,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-34",
+    "name": "Quanty Hotspot 34",
+    "ssid": "Quanty-Fi-134",
+    "latitude": 37.775767,
+    "longitude": -122.529123,
+    "signal": 38,
+    "channel": 44,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-35",
+    "name": "Quanty Hotspot 35",
+    "ssid": "Quanty-Fi-135",
+    "latitude": 37.727124,
+    "longitude": -122.522392,
+    "signal": 98,
+    "channel": 149,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-36",
+    "name": "Quanty Hotspot 36",
+    "ssid": "Quanty-Fi-136",
+    "latitude": 37.76867,
+    "longitude": -122.35884,
+    "signal": 28,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-37",
+    "name": "Quanty Hotspot 37",
+    "ssid": "Quanty-Fi-137",
+    "latitude": 37.786003,
+    "longitude": -122.515256,
+    "signal": 93,
+    "channel": 6,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-38",
+    "name": "Quanty Hotspot 38",
+    "ssid": "Quanty-Fi-138",
+    "latitude": 37.690467,
+    "longitude": -122.433502,
+    "signal": 43,
+    "channel": 1,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-39",
+    "name": "Quanty Hotspot 39",
+    "ssid": "Quanty-Fi-139",
+    "latitude": 37.782748,
+    "longitude": -122.506488,
+    "signal": 67,
+    "channel": 11,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-40",
+    "name": "Quanty Hotspot 40",
+    "ssid": "Quanty-Fi-140",
+    "latitude": 37.826768,
+    "longitude": -122.488275,
+    "signal": 96,
+    "channel": 36,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-41",
+    "name": "Quanty Hotspot 41",
+    "ssid": "Quanty-Fi-141",
+    "latitude": 37.784041,
+    "longitude": -122.385913,
+    "signal": 41,
+    "channel": 11,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-42",
+    "name": "Quanty Hotspot 42",
+    "ssid": "Quanty-Fi-142",
+    "latitude": 37.74461,
+    "longitude": -122.469214,
+    "signal": 100,
+    "channel": 149,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-43",
+    "name": "Quanty Hotspot 43",
+    "ssid": "Quanty-Fi-143",
+    "latitude": 37.804806,
+    "longitude": -122.390728,
+    "signal": 69,
+    "channel": 40,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-44",
+    "name": "Quanty Hotspot 44",
+    "ssid": "Quanty-Fi-144",
+    "latitude": 37.792427,
+    "longitude": -122.510562,
+    "signal": 67,
+    "channel": 6,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-45",
+    "name": "Quanty Hotspot 45",
+    "ssid": "Quanty-Fi-145",
+    "latitude": 37.759679,
+    "longitude": -122.37781,
+    "signal": 32,
+    "channel": 149,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-46",
+    "name": "Quanty Hotspot 46",
+    "ssid": "Quanty-Fi-146",
+    "latitude": 37.699445,
+    "longitude": -122.357411,
+    "signal": 64,
+    "channel": 40,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-47",
+    "name": "Quanty Hotspot 47",
+    "ssid": "Quanty-Fi-147",
+    "latitude": 37.801256,
+    "longitude": -122.515938,
+    "signal": 92,
+    "channel": 6,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-48",
+    "name": "Quanty Hotspot 48",
+    "ssid": "Quanty-Fi-148",
+    "latitude": 37.806599,
+    "longitude": -122.382638,
+    "signal": 67,
+    "channel": 1,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-49",
+    "name": "Quanty Hotspot 49",
+    "ssid": "Quanty-Fi-149",
+    "latitude": 37.70249,
+    "longitude": -122.512737,
+    "signal": 49,
+    "channel": 44,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-50",
+    "name": "Quanty Hotspot 50",
+    "ssid": "Quanty-Fi-150",
+    "latitude": 37.820657,
+    "longitude": -122.495861,
+    "signal": 53,
+    "channel": 1,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-51",
+    "name": "Quanty Hotspot 51",
+    "ssid": "Quanty-Fi-151",
+    "latitude": 37.70588,
+    "longitude": -122.410267,
+    "signal": 43,
+    "channel": 6,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-52",
+    "name": "Quanty Hotspot 52",
+    "ssid": "Quanty-Fi-152",
+    "latitude": 37.785948,
+    "longitude": -122.460123,
+    "signal": 60,
+    "channel": 36,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-53",
+    "name": "Quanty Hotspot 53",
+    "ssid": "Quanty-Fi-153",
+    "latitude": 37.815983,
+    "longitude": -122.452652,
+    "signal": 80,
+    "channel": 44,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-54",
+    "name": "Quanty Hotspot 54",
+    "ssid": "Quanty-Fi-154",
+    "latitude": 37.786414,
+    "longitude": -122.420663,
+    "signal": 60,
+    "channel": 36,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-55",
+    "name": "Quanty Hotspot 55",
+    "ssid": "Quanty-Fi-155",
+    "latitude": 37.728575,
+    "longitude": -122.47423,
+    "signal": 69,
+    "channel": 1,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-56",
+    "name": "Quanty Hotspot 56",
+    "ssid": "Quanty-Fi-156",
+    "latitude": 37.812986,
+    "longitude": -122.472143,
+    "signal": 79,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-57",
+    "name": "Quanty Hotspot 57",
+    "ssid": "Quanty-Fi-157",
+    "latitude": 37.700386,
+    "longitude": -122.46881,
+    "signal": 77,
+    "channel": 44,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-58",
+    "name": "Quanty Hotspot 58",
+    "ssid": "Quanty-Fi-158",
+    "latitude": 37.719903,
+    "longitude": -122.514925,
+    "signal": 65,
+    "channel": 6,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-59",
+    "name": "Quanty Hotspot 59",
+    "ssid": "Quanty-Fi-159",
+    "latitude": 37.824883,
+    "longitude": -122.409348,
+    "signal": 34,
+    "channel": 1,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-60",
+    "name": "Quanty Hotspot 60",
+    "ssid": "Quanty-Fi-160",
+    "latitude": 37.706802,
+    "longitude": -122.389539,
+    "signal": 83,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-61",
+    "name": "Quanty Hotspot 61",
+    "ssid": "Quanty-Fi-161",
+    "latitude": 37.7731,
+    "longitude": -122.378006,
+    "signal": 31,
+    "channel": 149,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-62",
+    "name": "Quanty Hotspot 62",
+    "ssid": "Quanty-Fi-162",
+    "latitude": 37.740474,
+    "longitude": -122.481848,
+    "signal": 91,
+    "channel": 1,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-63",
+    "name": "Quanty Hotspot 63",
+    "ssid": "Quanty-Fi-163",
+    "latitude": 37.763306,
+    "longitude": -122.433584,
+    "signal": 49,
+    "channel": 40,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-64",
+    "name": "Quanty Hotspot 64",
+    "ssid": "Quanty-Fi-164",
+    "latitude": 37.810524,
+    "longitude": -122.450921,
+    "signal": 68,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-65",
+    "name": "Quanty Hotspot 65",
+    "ssid": "Quanty-Fi-165",
+    "latitude": 37.785578,
+    "longitude": -122.397029,
+    "signal": 86,
+    "channel": 6,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-66",
+    "name": "Quanty Hotspot 66",
+    "ssid": "Quanty-Fi-166",
+    "latitude": 37.725658,
+    "longitude": -122.457624,
+    "signal": 81,
+    "channel": 40,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-67",
+    "name": "Quanty Hotspot 67",
+    "ssid": "Quanty-Fi-167",
+    "latitude": 37.773399,
+    "longitude": -122.519375,
+    "signal": 74,
+    "channel": 11,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-68",
+    "name": "Quanty Hotspot 68",
+    "ssid": "Quanty-Fi-168",
+    "latitude": 37.739276,
+    "longitude": -122.371235,
+    "signal": 92,
+    "channel": 36,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-69",
+    "name": "Quanty Hotspot 69",
+    "ssid": "Quanty-Fi-169",
+    "latitude": 37.74681,
+    "longitude": -122.492058,
+    "signal": 50,
+    "channel": 36,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-70",
+    "name": "Quanty Hotspot 70",
+    "ssid": "Quanty-Fi-170",
+    "latitude": 37.739846,
+    "longitude": -122.405056,
+    "signal": 77,
+    "channel": 1,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-71",
+    "name": "Quanty Hotspot 71",
+    "ssid": "Quanty-Fi-171",
+    "latitude": 37.792729,
+    "longitude": -122.528714,
+    "signal": 43,
+    "channel": 149,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-72",
+    "name": "Quanty Hotspot 72",
+    "ssid": "Quanty-Fi-172",
+    "latitude": 37.731718,
+    "longitude": -122.445653,
+    "signal": 46,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-73",
+    "name": "Quanty Hotspot 73",
+    "ssid": "Quanty-Fi-173",
+    "latitude": 37.745136,
+    "longitude": -122.377297,
+    "signal": 84,
+    "channel": 36,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-74",
+    "name": "Quanty Hotspot 74",
+    "ssid": "Quanty-Fi-174",
+    "latitude": 37.789889,
+    "longitude": -122.506294,
+    "signal": 48,
+    "channel": 6,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-75",
+    "name": "Quanty Hotspot 75",
+    "ssid": "Quanty-Fi-175",
+    "latitude": 37.794634,
+    "longitude": -122.483313,
+    "signal": 64,
+    "channel": 44,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-76",
+    "name": "Quanty Hotspot 76",
+    "ssid": "Quanty-Fi-176",
+    "latitude": 37.720237,
+    "longitude": -122.406602,
+    "signal": 64,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-77",
+    "name": "Quanty Hotspot 77",
+    "ssid": "Quanty-Fi-177",
+    "latitude": 37.813417,
+    "longitude": -122.531359,
+    "signal": 83,
+    "channel": 1,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-78",
+    "name": "Quanty Hotspot 78",
+    "ssid": "Quanty-Fi-178",
+    "latitude": 37.702483,
+    "longitude": -122.447451,
+    "signal": 74,
+    "channel": 36,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-79",
+    "name": "Quanty Hotspot 79",
+    "ssid": "Quanty-Fi-179",
+    "latitude": 37.774491,
+    "longitude": -122.503596,
+    "signal": 28,
+    "channel": 40,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-80",
+    "name": "Quanty Hotspot 80",
+    "ssid": "Quanty-Fi-180",
+    "latitude": 37.805383,
+    "longitude": -122.428214,
+    "signal": 63,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-81",
+    "name": "Quanty Hotspot 81",
+    "ssid": "Quanty-Fi-181",
+    "latitude": 37.700396,
+    "longitude": -122.474923,
+    "signal": 59,
+    "channel": 6,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-82",
+    "name": "Quanty Hotspot 82",
+    "ssid": "Quanty-Fi-182",
+    "latitude": 37.821649,
+    "longitude": -122.372571,
+    "signal": 99,
+    "channel": 11,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-83",
+    "name": "Quanty Hotspot 83",
+    "ssid": "Quanty-Fi-183",
+    "latitude": 37.712464,
+    "longitude": -122.484132,
+    "signal": 66,
+    "channel": 36,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-84",
+    "name": "Quanty Hotspot 84",
+    "ssid": "Quanty-Fi-184",
+    "latitude": 37.739197,
+    "longitude": -122.425304,
+    "signal": 59,
+    "channel": 6,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-85",
+    "name": "Quanty Hotspot 85",
+    "ssid": "Quanty-Fi-185",
+    "latitude": 37.768405,
+    "longitude": -122.398073,
+    "signal": 40,
+    "channel": 1,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-86",
+    "name": "Quanty Hotspot 86",
+    "ssid": "Quanty-Fi-186",
+    "latitude": 37.777633,
+    "longitude": -122.44727,
+    "signal": 48,
+    "channel": 11,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-87",
+    "name": "Quanty Hotspot 87",
+    "ssid": "Quanty-Fi-187",
+    "latitude": 37.814353,
+    "longitude": -122.40414,
+    "signal": 78,
+    "channel": 44,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-88",
+    "name": "Quanty Hotspot 88",
+    "ssid": "Quanty-Fi-188",
+    "latitude": 37.746129,
+    "longitude": -122.454419,
+    "signal": 71,
+    "channel": 11,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-89",
+    "name": "Quanty Hotspot 89",
+    "ssid": "Quanty-Fi-189",
+    "latitude": 37.711035,
+    "longitude": -122.379964,
+    "signal": 41,
+    "channel": 36,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-90",
+    "name": "Quanty Hotspot 90",
+    "ssid": "Quanty-Fi-190",
+    "latitude": 37.80293,
+    "longitude": -122.463931,
+    "signal": 54,
+    "channel": 6,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-91",
+    "name": "Quanty Hotspot 91",
+    "ssid": "Quanty-Fi-191",
+    "latitude": 37.761825,
+    "longitude": -122.482544,
+    "signal": 92,
+    "channel": 11,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-92",
+    "name": "Quanty Hotspot 92",
+    "ssid": "Quanty-Fi-192",
+    "latitude": 37.781712,
+    "longitude": -122.373437,
+    "signal": 52,
+    "channel": 149,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-93",
+    "name": "Quanty Hotspot 93",
+    "ssid": "Quanty-Fi-193",
+    "latitude": 37.698594,
+    "longitude": -122.496227,
+    "signal": 29,
+    "channel": 1,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-94",
+    "name": "Quanty Hotspot 94",
+    "ssid": "Quanty-Fi-194",
+    "latitude": 37.82665,
+    "longitude": -122.426822,
+    "signal": 98,
+    "channel": 36,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-95",
+    "name": "Quanty Hotspot 95",
+    "ssid": "Quanty-Fi-195",
+    "latitude": 37.723392,
+    "longitude": -122.436156,
+    "signal": 64,
+    "channel": 11,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-96",
+    "name": "Quanty Hotspot 96",
+    "ssid": "Quanty-Fi-196",
+    "latitude": 37.800098,
+    "longitude": -122.521733,
+    "signal": 73,
+    "channel": 6,
+    "provider": "QuantyMesh"
+  },
+  {
+    "id": "hotspot-97",
+    "name": "Quanty Hotspot 97",
+    "ssid": "Quanty-Fi-197",
+    "latitude": 37.76752,
+    "longitude": -122.470434,
+    "signal": 44,
+    "channel": 40,
+    "provider": "QNet"
+  },
+  {
+    "id": "hotspot-98",
+    "name": "Quanty Hotspot 98",
+    "ssid": "Quanty-Fi-198",
+    "latitude": 37.719436,
+    "longitude": -122.387886,
+    "signal": 66,
+    "channel": 6,
+    "provider": "EdgeWave"
+  },
+  {
+    "id": "hotspot-99",
+    "name": "Quanty Hotspot 99",
+    "ssid": "Quanty-Fi-199",
+    "latitude": 37.771171,
+    "longitude": -122.41415,
+    "signal": 85,
+    "channel": 36,
+    "provider": "SkyRouter"
+  },
+  {
+    "id": "hotspot-100",
+    "name": "Quanty Hotspot 100",
+    "ssid": "Quanty-Fi-200",
+    "latitude": 37.705472,
+    "longitude": -122.399744,
+    "signal": 73,
+    "channel": 149,
+    "provider": "QuantyMesh"
+  }
+]
